@@ -3,7 +3,7 @@
 
    1. Project Overview
 
-This project aims to predict the salary category of engineering graduates using Machine Learning classification techniques. It uses the Engineering Graduate Salary dataset from Kaggle, containing 2,998 graduate records. The objective is to classify graduates into Low Salary and High Salary categories based on academic performance, engineering specialization, aptitude scores, technical skills, college information, and personality traits.
+I completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP), and it was carried out as a collaborative group project. The main objective was to predict whether an engineering graduate would receive a High Salary or Low Salary based on academic performance, aptitude scores, technical skills, and personality traits.
 
 The original continuous salary variable was converted into a binary target using the mean salary of approximately ₹305,175. Salaries less than or equal to the mean were classified as Low Salary, while salaries above the mean were classified as High Salary.
 
