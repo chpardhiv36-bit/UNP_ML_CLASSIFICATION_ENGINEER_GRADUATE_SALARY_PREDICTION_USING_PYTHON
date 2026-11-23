@@ -31,5 +31,7 @@ Hyperparameter tuning was performed on selected models using Grid Search with 5-
 The models were evaluated and compared using different train-test split ratios. Performance was assessed using Accuracy, Precision, Recall, F1-score, ROC-AUC, and Confusion Matrix. These metrics helped measure overall prediction correctness, the quality of High Salary predictions, and the model's ability to distinguish between the two salary categories.
 
 The results showed that ensemble methods such as Gradient Boosting, Random Forest, and XGBoost achieved competitive performance. ANN experiments also demonstrated how different network architectures influenced prediction results. Overall, the project compares multiple Machine Learning approaches to identify patterns associated with engineering graduates' salary categories.
+
 GOOGLE COLAB FILE LINK : https://drive.google.com/file/d/13xBz0TumECGcIpE8C0JdsOZnzzd9gI7O/view?usp=sharing
+
 PROJECT PRESENTATION FILE LINK : https://docs.google.com/presentation/d/10cf_jW1LDHYSmi2aOspsCYcNyQCLxPcO/edit?usp=sharing&ouid=116657094897244250688&rtpof=true&sd=true
